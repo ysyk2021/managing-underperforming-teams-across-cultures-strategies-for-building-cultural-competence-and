@@ -1,5 +1,4 @@
-Chapter 10: Sustaining Cultural Competence Efforts: Techniques for Sustaining Cultural Competence Efforts
-=========================================================================================================
+# Techniques for Sustaining Cultural Competence Efforts
 
 Sustaining cultural competence efforts is essential for maintaining an inclusive and effective workplace culture. In this chapter, we will explore techniques for sustaining cultural competence efforts and ensuring long-term success.
 

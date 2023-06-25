@@ -1,5 +1,4 @@
-Chapter 11: Conclusion: Recap of Key Points and Strategies
-==========================================================
+# Recap of Key Points and Strategies
 
 In this book, we have explored various strategies and techniques for managing underperforming teams across cultures and building cultural competence and understanding. In this chapter, we will recap the key points and strategies discussed throughout the book.
 

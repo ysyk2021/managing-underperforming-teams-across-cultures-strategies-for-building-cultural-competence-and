@@ -1,5 +1,4 @@
-Chapter 6: Developing Cultural Intelligence: Techniques for Developing Cultural Intelligence
-============================================================================================
+# Techniques for Developing Cultural Intelligence
 
 Developing cultural intelligence is essential for effectively managing underperforming teams across cultures. Cultural intelligence involves having an awareness and understanding of cultural differences, as well as the ability to adapt behavior and communication style accordingly.
 

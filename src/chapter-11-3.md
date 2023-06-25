@@ -1,5 +1,4 @@
-Chapter 11: Conclusion: Future Directions for Research and Practice
-===================================================================
+# Future Directions for Research and Practice
 
 Managing underperforming teams across cultures is a complex and challenging task that requires ongoing learning and adaptation. In this book, we have discussed strategies for building cultural competence and understanding to manage underperformance in cross-cultural teams.
 

@@ -1,5 +1,4 @@
-Chapter 9: Measuring and Evaluating Cultural Competence Effectiveness: Techniques for Measuring and Evaluating Cultural Competence Effectiveness
-================================================================================================================================================
+# Techniques for Measuring and Evaluating Cultural Competence Effectiveness
 
 Measuring and evaluating cultural competence effectiveness is critical to ensuring that efforts to build cultural competence are effective in promoting a more inclusive and productive team environment. In this chapter, we will discuss techniques for measuring and evaluating cultural competence effectiveness.
 

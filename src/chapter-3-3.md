@@ -1,5 +1,4 @@
-Chapter 3: Understanding Cross-Cultural Management: Exploring the Relationship between Culture and Team Performance
-===================================================================================================================
+# Exploring the Relationship between Culture and Team Performance
 
 Understanding cross-cultural management is essential for effectively managing underperforming teams across cultures. In this chapter, we will explore the relationship between culture and team performance, and how cultural differences can impact team dynamics and performance.
 

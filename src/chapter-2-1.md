@@ -1,5 +1,4 @@
-Chapter 2: Overview of Managing Underperforming Teams: Different Perspectives and Approaches to Managing Underperformance
-=========================================================================================================================
+# Different Perspectives and Approaches to Managing Underperformance
 
 Managing underperforming teams is a complex and challenging task, particularly when it involves teams that span multiple cultures and geographic locations. In this chapter, we will provide an overview of different perspectives and approaches to managing underperformance in cross-cultural teams.
 

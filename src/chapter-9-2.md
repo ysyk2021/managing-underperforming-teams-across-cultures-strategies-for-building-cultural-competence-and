@@ -1,5 +1,4 @@
-Chapter 9: Measuring and Evaluating Cultural Competence Effectiveness: Establishing Key Performance Indicators (KPIs)
-=====================================================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Measuring and evaluating cultural competence effectiveness is critical to ensuring that efforts to build cultural competence are effective in promoting a more inclusive and productive team environment. In this chapter, we will discuss the importance of establishing key performance indicators (KPIs) for measuring and evaluating cultural competence effectiveness.
 

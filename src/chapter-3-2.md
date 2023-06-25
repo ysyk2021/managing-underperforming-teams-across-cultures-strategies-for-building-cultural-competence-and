@@ -1,5 +1,4 @@
-Chapter 3: Understanding Cross-Cultural Management: Identifying Key Elements of Culture
-=======================================================================================
+# Identifying Key Elements of Culture
 
 Understanding cross-cultural management requires an understanding of the key elements of culture that can impact team performance. In this chapter, we will explore the key elements of culture and how they can impact cross-cultural communication and collaboration.
 

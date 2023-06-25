@@ -1,5 +1,4 @@
-Chapter 8: Providing Feedback and Coaching Across Cultures: Techniques for Providing Feedback and Coaching Across Cultures
-==========================================================================================================================
+# Techniques for Providing Feedback and Coaching Across Cultures
 
 Providing feedback and coaching is critical for managing underperforming teams across cultures, but it can present unique challenges. Different cultures may have different expectations around feedback and coaching, so it's essential to adapt to these differences to ensure that feedback is effective.
 

@@ -1,5 +1,4 @@
-Chapter 10: Sustaining Cultural Competence Efforts: Adapting to Changes in the Team and Organizational Culture
-==============================================================================================================
+# Adapting to Changes in the Team and Organizational Culture
 
 Building cultural competence is an ongoing process that requires continuous learning and adaptation. As teams and organizations evolve over time, it is essential to sustain efforts to build cultural competence and adapt to changes in the team and organizational culture.
 

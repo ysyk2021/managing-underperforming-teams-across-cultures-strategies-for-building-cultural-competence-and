@@ -1,5 +1,4 @@
-Chapter 6: Developing Cultural Intelligence: Managing Cross-Cultural Conflict
-=============================================================================
+# Managing Cross-Cultural Conflict
 
 Managing cross-cultural conflict is critical for building trust and achieving success in any team. Developing cultural intelligence can help leaders effectively manage cross-cultural conflict and build stronger, more productive teams.
 

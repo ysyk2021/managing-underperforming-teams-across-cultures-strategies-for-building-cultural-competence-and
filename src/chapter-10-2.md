@@ -1,5 +1,4 @@
-Chapter 10: Sustaining Cultural Competence Efforts: Continuous Learning and Improvement
-=======================================================================================
+# Continuous Learning and Improvement
 
 Sustaining cultural competence efforts requires continuous learning and improvement. In this chapter, we will explore the importance of continuous learning and improvement for sustaining cultural competence efforts and improving cross-cultural communication and collaboration.
 

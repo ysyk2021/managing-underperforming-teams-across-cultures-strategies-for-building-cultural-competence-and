@@ -1,5 +1,4 @@
-Chapter 8: Providing Feedback and Coaching Across Cultures: Overcoming Cultural Barriers to Feedback and Coaching
-=================================================================================================================
+# Overcoming Cultural Barriers to Feedback and Coaching
 
 Providing feedback and coaching is critical for improving team performance, but it can be challenging when working with underperforming teams across cultures. Cultural differences can impact how feedback and coaching are received and interpreted, making it essential to overcome these barriers to promote more effective communication and development.
 

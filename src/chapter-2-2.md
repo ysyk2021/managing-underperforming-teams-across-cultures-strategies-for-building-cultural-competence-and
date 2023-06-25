@@ -1,5 +1,4 @@
-Chapter 2: Overview of Managing Underperforming Teams: The Impact of Underperformance on Team Dynamics and Outcomes
-===================================================================================================================
+# The Impact of Underperformance on Team Dynamics and Outcomes
 
 In this chapter, we'll explore the impact of underperformance on team dynamics and outcomes. We'll discuss the importance of identifying and addressing underperformance, how underperformance affects team morale and productivity, and the consequences of leaving underperformance unmanaged.
 
