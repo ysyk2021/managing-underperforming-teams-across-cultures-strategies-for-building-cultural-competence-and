@@ -1,4 +1,3 @@
-# Techniques for Addressing Cross-Cultural Communication Barriers
 
 Cross-cultural communication can be challenging, but there are several techniques that leaders can use to address communication barriers and promote more effective communication across cultures.
 

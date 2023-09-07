@@ -1,4 +1,3 @@
-# Analyzing Results and Making Improvements
 
 Measuring and evaluating cultural competence effectiveness is critical to ensure that efforts to build cultural competence are effective in promoting a more inclusive and productive team environment. In this chapter, we will discuss how to analyze results and make improvements based on the data collected from key performance indicators (KPIs).
 

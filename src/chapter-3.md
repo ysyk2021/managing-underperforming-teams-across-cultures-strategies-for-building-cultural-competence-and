@@ -1,5 +1,3 @@
-Chapter 3: Understanding Cross-Cultural Management
-==================================================
 
 Understanding cross-cultural management is essential for effectively managing underperforming teams across cultures. In this chapter, we will explore techniques for understanding cross-cultural management, identifying key elements of culture, and exploring the relationship between culture and team performance.
 

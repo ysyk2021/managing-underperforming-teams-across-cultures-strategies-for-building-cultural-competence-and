@@ -1,5 +1,3 @@
-Chapter 2: Overview of Managing Underperforming Teams
-=====================================================
 
 Managing underperforming teams is a challenging task for managers, and it becomes even more complex when dealing with teams from diverse cultural backgrounds. In this chapter, we will provide an overview of managing underperforming teams and explore different perspectives and approaches to managing underperformance, the impact of underperformance on team dynamics and outcomes, and techniques for overcoming common challenges in managing underperformance.
 

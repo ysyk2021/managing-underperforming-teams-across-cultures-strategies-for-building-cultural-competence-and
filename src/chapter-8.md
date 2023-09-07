@@ -1,5 +1,3 @@
-Chapter 8: Providing Feedback and Coaching Across Cultures
-==========================================================
 
 Providing feedback and coaching is essential for improving team performance, but it can be challenging when working across cultures. In this chapter, we will explore techniques for providing feedback and coaching across cultures, understanding different feedback and coaching styles, and overcoming cultural barriers to feedback and coaching.
 

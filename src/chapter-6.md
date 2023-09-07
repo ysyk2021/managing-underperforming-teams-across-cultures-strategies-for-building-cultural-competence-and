@@ -1,5 +1,3 @@
-Chapter 6: Developing Cultural Intelligence
-===========================================
 
 Developing cultural intelligence is essential for effectively managing underperforming teams across cultures. Cultural intelligence involves having an awareness and understanding of cultural differences, as well as the ability to adapt behavior and communication style accordingly.
 
@@ -46,5 +44,4 @@ Some strategies for managing cross-cultural conflict include:
 By managing cross-cultural conflict effectively, leaders can promote a more positive and productive team environment.
 
 In conclusion, developing cultural intelligence is critical for effectively managing underperforming teams across cultures. Techniques for developing cultural intelligence include seeking out learning opportunities, engaging with people from diverse backgrounds, reflecting on personal biases and assumptions, and developing empathy and respect for diverse perspectives. Adapting to different cultural norms and values and managing cross-cultural conflict are also critical skills for promoting a more inclusive and productive team environment.
-
 

@@ -1,5 +1,3 @@
-Chapter 11: Conclusion
-======================
 
 Managing underperforming teams across cultures is a complex and challenging task that requires cultural competence and understanding. In this book, we have discussed strategies for building cultural competence and understanding to manage underperformance in cross-cultural teams.
 

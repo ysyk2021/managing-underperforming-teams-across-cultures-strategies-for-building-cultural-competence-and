@@ -1,4 +1,3 @@
-# Understanding Different Feedback and Coaching Styles
 
 Providing feedback and coaching is essential for improving team performance, but different cultures may have different expectations and approaches to feedback and coaching. To effectively provide feedback and coaching across cultures, it's important to understand and adapt to different feedback and coaching styles.
 

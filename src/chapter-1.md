@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Managing underperforming teams across cultures is an increasingly common challenge faced by leaders in today's globalized business environment. Cultural differences can impact team dynamics in many ways, including communication styles, decision-making processes, and approaches to conflict resolution.
 

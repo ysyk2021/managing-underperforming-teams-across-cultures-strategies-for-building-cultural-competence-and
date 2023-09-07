@@ -1,5 +1,3 @@
-Chapter 9: Measuring and Evaluating Cultural Competence Effectiveness
-=====================================================================
 
 Measuring and evaluating cultural competence effectiveness is critical to ensure that efforts to build cultural competence are effective in promoting a more inclusive and productive team environment. In this chapter, we will discuss techniques for measuring and evaluating cultural competence effectiveness, establishing key performance indicators (KPIs), analyzing results, and making improvements.
 
@@ -68,5 +66,4 @@ Some strategies for continuous improvement include:
 By prioritizing continuous improvement, leaders can sustain cultural competence efforts and become more effective at managing underperforming teams across cultures.
 
 In conclusion, measuring and evaluating cultural competence effectiveness is critical for ensuring that cultural competence efforts are effective in promoting a more inclusive and productive team environment. Techniques for measuring and evaluating cultural competence effectiveness include establishing KPIs, analyzing results, and making improvements. By investing in these techniques, leaders can sustain cultural competence efforts and promote a more productive and inclusive team environment.
-
 

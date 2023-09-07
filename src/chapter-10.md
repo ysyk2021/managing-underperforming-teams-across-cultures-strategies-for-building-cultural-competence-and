@@ -1,5 +1,3 @@
-Chapter 10: Sustaining Cultural Competence Efforts
-==================================================
 
 Sustaining cultural competence efforts is essential for ensuring that teams continue to work effectively across cultures. In this chapter, we will discuss techniques for sustaining cultural competence efforts and promoting ongoing learning and improvement.
 

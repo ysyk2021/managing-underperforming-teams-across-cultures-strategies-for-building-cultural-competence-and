@@ -1,4 +1,4 @@
-# Introduction
+
 
 In today's globalized business environment, organizations often face the challenge of managing underperforming teams that span across different cultures. The ability to effectively navigate cultural differences and build cultural competence is crucial for leaders and managers in order to facilitate team success.
 
@@ -15,3 +15,7 @@ By the end of this book, readers will have a solid foundation in understanding t
 Let us embark on this journey together, exploring the intricacies of managing underperforming teams across cultures and discovering how we can build cultural competence and understanding to drive team success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
