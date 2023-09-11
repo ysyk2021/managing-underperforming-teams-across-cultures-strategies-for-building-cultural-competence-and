@@ -1,5 +1,4 @@
-Chapter: Exploring the Relationship between Culture and Team Performance
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
